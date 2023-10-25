@@ -1,0 +1,1 @@
+alert("jaldi whan se hato")
